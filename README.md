@@ -2,11 +2,11 @@
 
 This repository contains my first webpages built with HTML:
 1. **Profile Page** (`index.html`) - A simple bio page about me.
-2. **My Favorite Things** (`favoritesThings.html`) - A list of my favorite books, movies, and songs.
+2. **My Favorite Things** (`favoriteThings.html`) - A list of my favorite books, movies, and songs.
 
 ## How to View
 👉 **Live Preview:**  
-https://ElochukwuOrji.github.io/html-intro  
+[https://ElochukwuOrji.github.io/html-intro](https://github.com/ElochukwuOrji/html-intro/tree/master)  
 
 ## Project Structure
 ```
