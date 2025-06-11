@@ -20,7 +20,6 @@ html-intro/
 - Creating HTML pages with headings, paragraphs, and lists
 - Adding links and images
 - Using Git commands to push code to GitHub
-- Hosting websites with GitHub Pages
 
 ---
 
