@@ -13,6 +13,7 @@ This repository contains my first webpages built with HTML:
 html-intro/
 ├── index.html            # Main profile page
 ├── favorites.html        # My favorite things
+├── placeholder image.jpg # Placeholder image
 └── README.md             # This documentation
 ```
 
